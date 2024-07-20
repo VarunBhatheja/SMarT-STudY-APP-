@@ -1,4 +1,4 @@
-# Android App Development Course
+# Android App Development Project
 
 Welcome to the Android App Development Course repository. In this course, you'll see  amazing Android application using modern technologies and best practices.
 
